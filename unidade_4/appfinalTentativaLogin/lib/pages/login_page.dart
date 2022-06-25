@@ -44,17 +44,7 @@ class _LoginPageState extends State<LoginPage> {
   }
 
   login() async {
-    //setState(() => loading = true)
-
-    if (email.text == 'victor.g2000@hotmail.com' ||
-        email.text == 'vtgomes@furb.br' ||
-        email.text == 'mvventuri@furb.br') {
-      Navigator.push(
-          context,
-          MaterialPageRoute(
-            builder: (_) => const HomePage(),
-          ));
-    }
+    //Retirado Devido segurança
   }
 
   registrar() async {
