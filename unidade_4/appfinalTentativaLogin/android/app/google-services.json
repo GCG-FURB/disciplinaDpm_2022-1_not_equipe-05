@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1000101356694",
+    "project_id": "trabalho-banco",
+    "storage_bucket": "trabalho-banco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000101356694:android:a0e3374d1c5fd349ef8eb7",
+        "android_client_info": {
+          "package_name": "com.example.appfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000101356694-t8lfi0kpcahgm6gvk7cvo7262mg945ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWH0jw8MUCUJfR1OXSSKCSVzykDJXQVrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000101356694-t8lfi0kpcahgm6gvk7cvo7262mg945ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000101356694:android:b4d0405e5ff8dfd2ef8eb7",
+        "android_client_info": {
+          "package_name": "com.example.bancoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000101356694-ot5p4lreqif1ak7v2h1qtu96utck3sdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bancoapp",
+            "certificate_hash": "6fcef44fdb36f42395e18b10ee661890a00c807b"
+          }
+        },
+        {
+          "client_id": "1000101356694-t8lfi0kpcahgm6gvk7cvo7262mg945ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWH0jw8MUCUJfR1OXSSKCSVzykDJXQVrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000101356694-t8lfi0kpcahgm6gvk7cvo7262mg945ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
